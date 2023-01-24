@@ -1,0 +1,15 @@
+Algoritmo "semnome"
+Var
+   prestacao,valor_compra:real
+
+
+Inicio
+   Escreval("Digite o valor da compra:")
+   leia(valor_compra)
+   prestacao<-valor_compra/5
+   Escreval("1ª prestação: ", prestacao)
+   Escreval("2ª prestação: ", prestacao)
+   Escreval("3ª prestação: ", prestacao)
+   Escreval("4ª prestação: ", prestacao)
+   Escreval("5ª prestação: ", prestacao)
+Fimalgoritmo

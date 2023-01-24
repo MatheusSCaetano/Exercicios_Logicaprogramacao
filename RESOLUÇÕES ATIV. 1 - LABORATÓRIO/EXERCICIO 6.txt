@@ -1,0 +1,21 @@
+Algoritmo "exercicio 6"
+
+VAR
+dolares,cotacao,valor_corrigido:real
+
+Inicio
+Escreval("Digite quanto o turista tem em doláres:")
+leia(dolares)
+Escreval ("Digite a cotação do dolár atual:")
+leia(cotacao)
+Valor_corrigido <- dolares*cotacao
+Escreval ("O Dinheiro que ele tem após a conversão é:", valor_corrigido)
+
+
+
+
+
+
+
+
+Fimalgoritmo

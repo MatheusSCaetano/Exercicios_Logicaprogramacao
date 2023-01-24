@@ -1,0 +1,14 @@
+Algoritmo "exercicio 3"
+
+VAR
+Produto,Desconto,Valorfinal:real
+
+Inicio
+Escreval ("Digite o valor do produto:")
+leia (Produto)
+Desconto <- Produto*(9/100)
+Valorfinal <- Produto - Desconto
+Escreval ("O valor do produto com desconto ficou:", Valorfinal)
+Escreval ("O Desconto no produto foi de:", Desconto)
+
+Fimalgoritmo

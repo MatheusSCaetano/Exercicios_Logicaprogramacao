@@ -1,0 +1,22 @@
+Algoritmo "exercicio 7"
+
+VAR
+dolares,cotacao,valor_corrigido:real
+
+Inicio
+Escreval ("Digita a distancia entre os pontos em km:")
+leia (distancia)
+Escreval ("Digite a velcidade média do carro em km/h")
+leia (velocidade_km)
+Tempo <- distancia/velocidade_km
+Escreval ("O tempo gasto foi de:", tempo)
+
+
+
+
+
+
+
+
+
+Fimalgoritmo

@@ -1,0 +1,19 @@
+Algoritmo "semnome"
+
+VAR
+m1,m2,m3,m4,mp:real
+
+
+Inicio
+escreval ("Digite a primeira nota")
+leia (m1)
+escreval ("Digite a segunda nota")
+leia (m2)
+escreval ("Digite a terceira nota")
+leia (m3)
+escreval ("Digite a quarta nota")
+leia (m4)
+mp <- ((m1*1)+(m2*2)+(m3*3)+(m4*4))/(1+2+3+4)
+escreval ("A média ponderada das notas é:", mp)
+
+Fimalgoritmo

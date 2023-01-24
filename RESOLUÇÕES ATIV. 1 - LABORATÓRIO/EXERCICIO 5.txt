@@ -1,0 +1,21 @@
+Algoritmo "exercicio 5"
+
+VAR
+aplicacao_mensal,taxa,meses,Rendimento:real
+
+Inicio
+Escreval ("Digite a aplicação constante mensal:")
+leia(aplicacao_mensal)
+Escreval ("digite a taxa da poupança:")
+leia (taxa)
+Escreval ("Digite o número de meses de investimento:")
+leia (meses)
+Rendimento <- (aplicacao_mensal*((1+(taxa/100))^meses)-1)/(taxa/100)
+Escreval ("o rendimento é igual a:", rendimento)
+
+
+
+
+
+
+Fimalgoritmo

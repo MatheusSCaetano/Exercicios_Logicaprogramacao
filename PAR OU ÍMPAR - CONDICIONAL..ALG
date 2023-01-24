@@ -1,0 +1,14 @@
+Algoritmo "PAR OU ÍMPAR"
+
+Var
+N:INTEIRO
+
+Inicio
+ESCREVA("DIGITE UM NÚMERO:")
+LEIA(N)
+SE(N MOD 2=0)ENTAO
+ESCREVAL("O NÚMERO ", N, " É PAR.")
+SENAO
+ESCREVA("O NÚMERO ", N, " É IMPAR.")
+FIMSE
+Fimalgoritmo

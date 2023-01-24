@@ -1,0 +1,23 @@
+Algoritmo "exercicio 4"
+
+VAR
+a,b,c,Delta,Raiz1,Raiz2:real
+
+Inicio
+Escreval("digite o valor de a:")
+leia (a)
+Escreval("digite o valor de b:")
+leia (b)
+Escreval("digite o valor de c:")
+leia (c)
+Delta <- ((b^2)-(4*a*c))
+raiz1 <- (-b + (Raizq (Delta)))/(2*a)
+Escreval ("A primeira raiz da equação é:", raiz1)
+raiz2 <- (-b - (Raizq (Delta)))/(2*a)
+Escreval ("A Segunda raiz da equação é:", raiz2)
+
+
+
+
+
+Fimalgoritmo
